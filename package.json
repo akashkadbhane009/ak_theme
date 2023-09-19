@@ -1,0 +1,21 @@
+{
+  "name": "ak-way-to-code",
+  "displayName": "Akash's-way",
+  "description": "none",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ak-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ak-dark-color-theme.json"
+      }
+    ]
+  }
+}
